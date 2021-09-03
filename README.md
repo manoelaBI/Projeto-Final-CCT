@@ -1,7 +1,7 @@
 # Uso do Selenium para exportação de Convenções Coletivas de trabalho da plataforma Mediador
 
 #### Aluno: [Manoela Demori Lacombe Penna da Rocha](https://github.com/manoelaBI)
-#### Orientador(/a/es/as): [Felipe Borges](https://github.com/link_do_github)
+#### Orientador(/a/es/as): [Felipe Borges](https://github.com/FelipeBorgesC)
 
 ---
 
