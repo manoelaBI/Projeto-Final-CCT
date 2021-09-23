@@ -7,7 +7,7 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para o código](https://github.com/manoelaBI/Projeto-Final-CCT/blob/main/Trabalho%20Final%20CCT%20-%20Vers%C3%A3o%20Final%20(2).ipynb). <!-- caso não aplicável, remover esta linha -->
+- [Link para o código](https://github.com/manoelaBI/Projeto-Final-CCT/commit/dd85ce24977726ab5605d73c027fa8ca33b5c421). <!-- caso não aplicável, remover esta linha -->
 
 
 ---
